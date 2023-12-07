@@ -1,0 +1,8 @@
+# Fichiers class générés lors de la compilation
+*.class
+
+# Fichiers générés par des IDE spécifiques
+.idea/
+
+#node
+node_modules
